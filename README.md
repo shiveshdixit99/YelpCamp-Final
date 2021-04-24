@@ -5,7 +5,7 @@ YelpCamp is a project that was completed as a part of [Colt Steele's Web Develop
 YelpCamp is based on the popular Yelp.com , the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
 
 The application is hosted on heroku and can be accessed at the below web address  
-https://yelpcamp-vijay1.herokuapp.com/
+https://still-meadow-62884.herokuapp.com/campgrounds
 
 ## Functionalities
 - Everyone can view the camps and reviews without signing up or logging in.
@@ -33,7 +33,7 @@ https://yelpcamp-vijay1.herokuapp.com/
 ## Homepage
 Changing background that fades away making space for a new background to show.
 
-![Alt text](homepage1.png)  
+![Alt text](images/homepage1.png?raw=true)  
 
 ![Alt text](images/homepage2.png?raw=true)  
 
