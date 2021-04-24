@@ -33,7 +33,7 @@ https://yelpcamp-vijay1.herokuapp.com/
 ## Homepage
 Changing background that fades away making space for a new background to show.
 
-![Alt text](images/homepage1.png?raw=true)  
+![Alt text](homepage1.png)  
 
 ![Alt text](images/homepage2.png?raw=true)  
 
