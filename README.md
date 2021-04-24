@@ -5,13 +5,13 @@ YelpCamp is a project that was completed as a part of [Colt Steele's Web Develop
 YelpCamp is based on the popular Yelp.com , the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
 
 The application is hosted on heroku and can be accessed at the below web address  
-https://still-meadow-62884.herokuapp.com/campgrounds
+https://still-meadow-62884.herokuapp.com/
 
 ## Functionalities
 - Everyone can view the camps and reviews without signing up or logging in.
 - The user will have to login to edit the campground details or any comments.
 - The user can only edit/delete the campgrounds and comments that they have added.
-- All the data will pe persistent and is stored in the awazon cloud.
+- All the data will be persistent and is stored in the amazon cloud.
 
 ## Technologies Used:
 
@@ -55,8 +55,3 @@ Changing background that fades away making space for a new background to show.
 ## Add new comment
 ![Alt text](images/addnewcomment.png?raw=true)  
 
-
-## Deployment:
-
-- In the app.js use - > mongoose.connect('mongodb://localhost/yelp_camp'); (if mongodb is running on localhost).  
-- I have used -> mongoose.connect(process.env.DATABASEURL); and have set DATABASEURL as environment variable in my heroku to maintain security.
