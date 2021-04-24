@@ -33,7 +33,7 @@ https://still-meadow-62884.herokuapp.com/
 ## Homepage
 Changing background that fades away making space for a new background to show.
 
-![Alt text](images/homepage1.png?raw=true)  
+![alt text](https://github.com/shiveshdixit99/YelpCamp-Final/blob/main/images/addnewcampground.png?raw=true)  
 
 ![Alt text](images/homepage2.png?raw=true)  
 
